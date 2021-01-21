@@ -1,1 +1,1 @@
-# Burger-Recipe
+The recipe is of a Burger written by Sashvat.
